@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     description="A library that prints messages from a fish mouth.",
-    author="Antigravity",
+    author="Farbod Roshani",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
